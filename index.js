@@ -1,32 +1,3 @@
-// let now = new Date();
-
-// let hours = now.getHours();
-// let minutes = now.getMinutes();
-// let seconds = now.getSeconds();
-
-// const timeElement = document.querySelector('.time');
-// timeElement.textContent=`${hours}:${minutes}:${seconds}`
-
-
-// const date = now.getDate()
-
-// const year = now.getFullYear();
-
-// const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-
-// const daysOfWeek = ['Sun', 'Mon', 'Tues', 'Wed', 'Thurs', 'Fri', 'Sat'];
-
-// const monthName= months[now.getMonth()];
-// const dayName = daysOfWeek[now.getDay()];
-
-// const dateElement = document.querySelector('.date');
-// dateElement.textContent = `${dayName}, ${monthName}, ${date}, ${year}`;
-
-
-
-
-// is pure code ko function m likh dege 
-
 function updateTime(){
     let now = new Date();
 
